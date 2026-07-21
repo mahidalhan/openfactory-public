@@ -1,0 +1,5 @@
+[features]
+apps = false
+computer_use = false
+enable_mcp_apps = false
+plugins = false

@@ -1,0 +1,17 @@
+.DS_Store
+*.log
+
+# Credentials and private factory material
+.env
+.env.*
+.openfactory-private/
+
+# Local agent/session state
+.claude/
+.entire/
+
+# Python and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/

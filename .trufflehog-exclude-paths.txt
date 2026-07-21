@@ -1,0 +1,6 @@
+(^|/)\.git/
+(^|/)\.env($|\.)
+(^|/)\.openfactory-private/
+(^|/)\.claude/
+(^|/)\.entire/
+(^|/)__pycache__/
