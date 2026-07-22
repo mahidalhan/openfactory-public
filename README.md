@@ -27,7 +27,7 @@ On GitHub, choose **Code → Download ZIP**, then unzip the download. If you use
 Git, run:
 
 ```bash
-git clone https://github.com/mahidalhan/openfactory-public.git
+git clone https://github.com/mahidalhan/openfactory.git
 ```
 
 ### 2. Open The Folder In Codex
