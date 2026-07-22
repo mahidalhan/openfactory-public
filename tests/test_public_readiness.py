@@ -112,6 +112,7 @@ class PublicReadinessTest(unittest.TestCase):
             "Data And Approval Rules",
             ".agents/skills/",
             "Apache License 2.0",
+            "https://github.com/mahidalhan/openfactory-public.git",
         ):
             with self.subTest(phrase=phrase):
                 self.assertIn(phrase, readme)
